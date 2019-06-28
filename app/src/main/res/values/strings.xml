@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckInLocais</string>
+    <string name="tvMA_NomeLocal">Nome do Local:</string>
+    <string name="tvMA_CategoriaLocal">Categoria do Local:</string>
+    <string name="tvMA_PosiGlobal">Posicionamento Global</string>
+    <string name="tvMA_Latitude">Latitude:</string>
+    <string name="tvMA_Longitude">Longitude:</string>
+    <string name="btMA_CheckIn">CHECK-IN</string>
+</resources>
